@@ -54,7 +54,7 @@
             </tr> 
             <tr>
                 <td align="center">
-                       <input type="submit" id="submit" name="submit" value="Register" onclick="validate()">                    
+                       <input type="submit" id="submit" name="submit" value="Yasaswi" onclick="validate()">                    
                 </td>
                 <td align="center">
                        <input type="button" id="clear" name="clear" value="Clear">                    
